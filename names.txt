@@ -1,4 +1,0 @@
-
-Hi! Its me Dhana
-You know that I am so excited 
-this is my first time using git
